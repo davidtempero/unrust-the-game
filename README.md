@@ -46,7 +46,10 @@ The Unstable Book: https://doc.rust-lang.org/nightly/unstable-book/index.html
 
 ## Resources
 
-+ https://github.com/rust-unofficial
++ Rust colections:
+  + https://github.com/rust-unofficial
   + https://github.com/rust-unofficial/awesome-rust 
   + https://github.com/rust-unofficial/patterns
++ GUI: https://github.com/emilk/egui
++ Game Engine: https://bevyengine.org/
 
